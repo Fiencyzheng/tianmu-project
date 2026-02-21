@@ -64,7 +64,7 @@ tianmu-project
 | 嵌入式软件工程师 | 熟悉飞控/RTOS | 联合创始人/顾问 |
 
 如果你对项目感兴趣，欢迎通过以下方式联系我：
-- 微信：`FIENCY-Z`
+- 微信：`FIENCYZ`
 - 邮箱：`785333078@QQ.COM`
 - GitHub Issue：直接在此仓库留言
 
